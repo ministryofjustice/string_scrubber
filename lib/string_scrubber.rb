@@ -1,4 +1,5 @@
 require 'string_scrubber/version'
+require 'string-scrub' if RUBY_VERSION[/^2\.0/]
 
 module StringScrubber
   def to_json(options = nil)
@@ -8,4 +9,8 @@ module StringScrubber
   end
 end
 
-String.prepend(StringScrubber)
+if RUBY_VERSION[/^2\.0/].nil?
+  String.prepend(StringScrubber)
+else
+  String.send :prepend, StringScrubber
+end
