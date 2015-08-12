@@ -1,4 +1,4 @@
-# MoJIRATStringScrubber
+# StringScrubber
 
 This gem prevents #to_json calls from raising exceptions on strings that
 are not UTF-8 encoded. It was written to deal with logging failures in the
