@@ -6,6 +6,8 @@ Climate](https://codeclimate.com/github/ministryofjustice/string_scrubber/badges
 CI](https://circleci.com/gh/ministryofjustice/string_scrubber.svg?style=svg)](https://circleci.com/gh/ministryofjustice/string_scrubber)
 [![Test
 Coverage](https://codeclimate.com/github/ministryofjustice/string_scrubber/badges/coverage.svg)](https://codeclimate.com/github/ministryofjustice/string_scrubber/coverage)
+[![Gem
+Version](https://badge.fury.io/rb/string_scrubber.svg)](http://badge.fury.io/rb/string_scrubber)
 
 
 This gem prevents #to_json calls from raising exceptions on strings that
