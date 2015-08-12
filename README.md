@@ -2,7 +2,6 @@
 
 [![Code
 Climate](https://codeclimate.com/github/ministryofjustice/string_scrubber/badges/gpa.svg)](https://codeclimate.com/github/ministryofjustice/string_scrubber)
-
 [![Circle
 CI](https://circleci.com/gh/ministryofjustice/string_scrubber.svg?style=svg)](https://circleci.com/gh/ministryofjustice/string_scrubber)
 
