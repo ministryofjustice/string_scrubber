@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'JSON'
+require 'json'
 
 describe StringScrubber do
 
