@@ -31,7 +31,7 @@ See the specs for a typical example string.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'MoJ_IRAT_string_scrubber'
+gem 'string_scrubber'
 ```
 
 And then execute:
@@ -40,7 +40,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install MoJ_IRAT_string_scrubber
+    $ gem install string_scrubber
 
 ## Usage
 
@@ -54,7 +54,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/MoJ_IRAT_string_scrubber.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ministryofjustice/string_scrubber.
 
 ## License
 
